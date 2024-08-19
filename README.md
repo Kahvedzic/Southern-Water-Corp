@@ -1,4 +1,4 @@
-Deep Dive Analysis Using Python (Jupyter Notebook) 👉 CLICK FILE BELOW FOR PROJECT 👈
+Deep Dive Analysis Using Python (Jupyter Notebook) 👉 CLICK SWC.ipynb FILE FOR PROJECT 👈
 
 The American Energy Market Regulator (AEMR) is responsible for looking after the United States of America's domestic energy network. The regulators responsibilty is to ensure that America's energy netowork remains reliable with minimal disruptions, which are known as outages. There are four key types of outages:
 Consequential - This outage is caused by an exogenous event or consequence of work unrealted to the energy provider(i.e A transmission line may be down, which means that a particular power provider may be unable.  to send energy to the network)
