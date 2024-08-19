@@ -1,4 +1,4 @@
-Deep Dive Analysis Using Python (Jupyter Notebook) 👉 CLICK FILE ABOVE FOR PROJECT 👈
+Deep Dive Analysis Using Python (Jupyter Notebook) 👉 CLICK FILE BELOW FOR PROJECT 👈
 
 Tools used in project include the following: Pandas, Numpy, Matplotlib, Seaborn, Statsmodel
 
