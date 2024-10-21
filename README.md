@@ -36,7 +36,7 @@ Prior to beginning of analysis, familiarization with the datasets was used for q
 
 # Executive Summary
 
-Overview of findings
+Overview of findings:
 
 After interpreting correlation coefficients and the use of the linear regression model we created, below is our assessment of the quality of our model. From 9/12/2014 to 10/12/2014, we tested our model with respect to the VOLUMETRIC FLOW METER 2, PUMP EFFICIENY, and HORSE POWER. Our model has performed signficantly well and our test predictions were a success.
 
@@ -66,8 +66,27 @@ Filtered Dataframes with Box Plots - Outliers Removed:
 
 * As we all know, Outliers can easily skew our analysis and we might want to remove them.
 * Using the df_raw dataset, below is the result of the calculation of removing the outliers skewing our analysis.
+* We see data was removed when PUMP FAILURE = 1.
 
 <img width="1254" alt="Screenshot 2024-10-21 at 3 36 39 PM" src="https://github.com/user-attachments/assets/27fbdb1e-d497-4caa-bc07-264009557c38">
+
+
+
+* As you might recall from the earlier plot you had made with the line plot; it was hard to see which variables were the most significant with respect to pump failure when all the variables are plotted together.
+* This is common when variables are at different scales, the trends can be more challenging to interpret.
+* This is why we are going to ITERATE through the dataframe and plot each individual variable out and compare this with the Pump Failure for a more streamlined analysis.
+
+<img width="1457" alt="Screenshot 2024-10-21 at 3 48 55 PM" src="https://github.com/user-attachments/assets/ea7cefda-6d34-4e5c-b0e3-1296b8e9a7c3">
+
+<img width="1461" alt="Screenshot 2024-10-21 at 3 49 45 PM" src="https://github.com/user-attachments/assets/cf93fcb8-6e4e-4548-99aa-ffb5fb17feb3">
+
+<img width="1452" alt="Screenshot 2024-10-21 at 3 50 07 PM" src="https://github.com/user-attachments/assets/6d7a2bf8-3d9f-47bb-8f33-c55a4d0378db">
+
+<img width="1453" alt="Screenshot 2024-10-21 at 3 50 34 PM" src="https://github.com/user-attachments/assets/e7787428-7776-4fcb-88c3-87f0c62e16d4">
+
+
+
+
 
 
 
