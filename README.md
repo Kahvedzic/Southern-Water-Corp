@@ -72,6 +72,8 @@ Filtered Dataframes with Box Plots - Outliers Removed:
 
 
 
+Plot and Examine Each Column:
+
 * As you might recall from the earlier plot you had made with the line plot; it was hard to see which variables were the most significant with respect to pump failure when all the variables are plotted together.
 * This is common when variables are at different scales, the trends can be more challenging to interpret.
 * This is why we are going to ITERATE through the dataframe and plot each individual variable out and compare this with the Pump Failure for a more streamlined analysis.
@@ -83,6 +85,24 @@ Filtered Dataframes with Box Plots - Outliers Removed:
 <img width="1452" alt="Screenshot 2024-10-21 at 3 50 07 PM" src="https://github.com/user-attachments/assets/6d7a2bf8-3d9f-47bb-8f33-c55a4d0378db">
 
 <img width="1453" alt="Screenshot 2024-10-21 at 3 50 34 PM" src="https://github.com/user-attachments/assets/e7787428-7776-4fcb-88c3-87f0c62e16d4">
+
+
+
+Create a Plot for Pump Failures Over a Rolling Time Period:
+
+* In these next few exercises we'll be seeking to better understand how we make use of Pythons Powerful Inferential Statistics and Plotting libraries to Zoom In on periods of interest that we'd like to examinate further.
+* We'll ensure to set the secondary axes as the Pump Failure Variable so we can observe how the variables move with respect to Pump Failure.
+
+<img width="1465" alt="Screenshot 2024-10-21 at 3 57 38 PM" src="https://github.com/user-attachments/assets/cbc2628c-fce3-4475-925e-48ed6f59f98e">
+
+<img width="1461" alt="Screenshot 2024-10-21 at 3 58 17 PM" src="https://github.com/user-attachments/assets/4d9b2e3e-ec17-4249-a940-07ed0f95cbbe">
+
+<img width="1460" alt="Screenshot 2024-10-21 at 3 58 34 PM" src="https://github.com/user-attachments/assets/b125c45c-13f7-4a1a-8db8-4b77a53c80f9">
+
+<img width="1458" alt="Screenshot 2024-10-21 at 3 59 08 PM" src="https://github.com/user-attachments/assets/74762f2e-e187-46d9-abc1-19ea7c8c4c24">
+
+
+
 
 
 
