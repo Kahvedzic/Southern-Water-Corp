@@ -8,9 +8,7 @@
 Souther Water Corp. is an Israeli water desalination company that sells fresh water for
 three customer segments: Residential, Public, and Private. Since the demand for
 agricultural and residential use is rising, Southern Water Corp. needed to maximize the
-availability of its three desalination plants. This has resulted in increased revenue for the
-calendar year. While the increase in revenue is fantastic, Southern Water Corp does not
-want an unsustainable rise in costs.
+availability of its three desalination plants. In this analysis we will analyze the correlation in PUMP FAILURE (1 or 0) in order to minimize pump failures and predict when and why the next pump failure will occur. 
 
 Insights and recommendations are provided on the following key areas:
 
