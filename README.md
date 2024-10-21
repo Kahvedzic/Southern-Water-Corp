@@ -42,7 +42,8 @@ Overview of findings
 
 After interpreting correlation coefficients and the use of the linear regression model we created, below is our assessment of the quality of our model. From 9/12/2014 to 10/12/2014, we tested our model with respect to the VOLUMETRIC FLOW METER 2, PUMP EFFICIENY, and HORSE POWER. Our model has performed signficantly well and our test predictions were a success.
 
-<img width="1253" alt="Screenshot 2024-10-21 at 3 06 10 PM" src="https://github.com/user-attachments/assets/83dc6f4a-90e2-4a08-923d-3381e9ff9689">
+<img width="1443" alt="Screenshot 2024-10-21 at 3 07 55 PM" src="https://github.com/user-attachments/assets/4fa0eb78-38dd-4d25-afbc-c88e74921040">
+
 
 
 
