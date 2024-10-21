@@ -60,12 +60,16 @@ Filtered Dataframes with Box Plots - Seeking Potential Outliers
 
 <img width="1250" alt="Screenshot 2024-10-21 at 3 23 35 PM" src="https://github.com/user-attachments/assets/7dddee14-c0a4-4300-8452-28a9ea0e745f">
 
+
 Filtered Dataframes with Box Plots - Removing Outliers
 
 * As we all know, Outliers can easily skew our analysis and we might want to remove them.
 * Using the df_raw dataset, below is the result of the calculation of removing the outliers skewing our analysis.
 
 <img width="1254" alt="Screenshot 2024-10-21 at 3 36 39 PM" src="https://github.com/user-attachments/assets/27fbdb1e-d497-4caa-bc07-264009557c38">
+
+
+
 
 
 
