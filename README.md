@@ -20,4 +20,5 @@ Insights and recommendations are provided on the following key areas:
 * Analysis of coefficients to better understand the variables displaying the largest rate of change with respect to PUMP FAILURE.
 * Lastly, validate predictions using our regressive model.
 
-The analysis using Python to clean, organize, and prepare data to create the insights we need can be found here
+The analysis using Python to clean, organize, and prepare data to create the insights we need can also be found [here](https://github.com/Kahvedzic/Southern-Water-Corp/blob/main/Southern%20Water%20Corp.ipynb)
+
