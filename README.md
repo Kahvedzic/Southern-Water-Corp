@@ -5,7 +5,7 @@
 
 # Project Background
 
-Souther Water Corp. is an Israeli water desalination company that sells fresh water for
+Southern Water Corp. is an Israeli water desalination company that sells fresh water for
 three customer segments: Residential, Public, and Private. Since the demand for
 agricultural and residential use is rising, Southern Water Corp. needed to maximize the
 availability of its three desalination plants. In this analysis we will analyze the correlation of PUMP FAILURE (1 or 0) in order to view the implications of pump failures and predict when the next pump failure will occur. 
