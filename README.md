@@ -68,7 +68,8 @@ Filtered Dataframes with Box Plots - Outliers Removed:
 * Using the df_raw dataset, below is the result of the calculation of removing the outliers skewing our analysis.
 * We see data was removed when PUMP FAILURE = 1.
 
-<img width="1254" alt="Screenshot 2024-10-21 at 3 36 39 PM" src="https://github.com/user-attachments/assets/27fbdb1e-d497-4caa-bc07-264009557c38">
+<img width="1251" alt="Screenshot 2024-10-21 at 4 00 56 PM" src="https://github.com/user-attachments/assets/63bfc52b-972e-4fdc-93c3-8594a157bc40">
+
 
 
 
