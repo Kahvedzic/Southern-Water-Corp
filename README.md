@@ -50,11 +50,10 @@ After interpreting correlation coefficients and the use of the linear regression
 
 # Insights Deep Dive
 
-Filtered Dataframes with Box Plots
+Filtered Dataframes with Box Plots - Seeking Potential Outliers
 
 * It is very likely we will see differences in the overall populations of Pre-Failure vs. Post Failure. To visualise this difference, we should separate our datasets, filtering for when the Pump Failure is = 0 or when the Pump Failure =1 and see what trends emerge.
-* This will require subsetting our dataframes
-* Using the dataframe_raw dataset, create two boxplots specifically for when the Pump has failed (i.e. Pump Failure = 1) and 0 (Pump is in normal operations)
+* Using the dataframe_raw dataset, create two boxplots specifically for when the Pump has failed (i.e. Pump Failure = 1) and 0 (Pump is in normal operations).
 
 <img width="1248" alt="Screenshot 2024-10-21 at 3 23 21 PM" src="https://github.com/user-attachments/assets/239db970-b736-4812-82a8-e0f87f94390d">
 
