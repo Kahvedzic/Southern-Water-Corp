@@ -96,7 +96,7 @@ Create a Plot for Pump Failures Over a Rolling Time Period:
 
 <img width="1465" alt="Screenshot 2024-10-21 at 3 57 38 PM" src="https://github.com/user-attachments/assets/cbc2628c-fce3-4475-925e-48ed6f59f98e">
 
-<img width="1461" alt="Screenshot 2024-10-21 at 3 58 17 PM" src="https://github.com/user-attachments/assets/4d9b2e3e-ec17-4249-a940-07ed0f95cbbe">
+<img width="1459" alt="Screenshot 2024-10-21 at 4 05 50 PM" src="https://github.com/user-attachments/assets/a72593de-9385-4f25-a3d5-65797d10185b">
 
 <img width="1460" alt="Screenshot 2024-10-21 at 3 58 34 PM" src="https://github.com/user-attachments/assets/b125c45c-13f7-4a1a-8db8-4b77a53c80f9">
 
