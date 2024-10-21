@@ -33,7 +33,19 @@ Project files can also be found [here](https://github.com/Kahvedzic/Southern-Wat
 
 <img width="1212" alt="Screenshot 2024-10-21 at 2 18 33 PM" src="https://github.com/user-attachments/assets/c11eba14-7d4e-4955-bbcf-5dd0d32e7c5a">
 
+
 Prior to beginning of analysis, familiarization with the datasets was used for quality control.
+
+# Executive Summary
+
+Overview of findings
+
+After interpreting correlation coefficients and the use of the linear regression model we created, below is our assessment of the quality of our model. From 9/12/2014 to 10/12/2014, we tested our model with respect to the VOLUMETRIC FLOW METER 2, PUMP EFFICIENY, and HORSE POWER. Our model has performed signficantly well and our test predictions were a success.
+
+<img width="1253" alt="Screenshot 2024-10-21 at 3 06 10 PM" src="https://github.com/user-attachments/assets/9f6bca16-b9fd-4edf-bf0f-af4da27f7367">
+
+
+
 
 
 
