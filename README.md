@@ -22,3 +22,6 @@ Insights and recommendations are provided on the following key areas:
 
 The analysis using Python to clean, organize, and prepare data to create the insights we need can also be found [here](https://github.com/Kahvedzic/Southern-Water-Corp/blob/main/Southern%20Water%20Corp.ipynb)
 
+Project files can also be found [here](https://github.com/Kahvedzic/Southern-Water-Corp/tree/main/Project_Files)
+
+
