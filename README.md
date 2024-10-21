@@ -83,7 +83,7 @@ Plot and Examine Each Column:
 
 <img width="1461" alt="Screenshot 2024-10-21 at 3 49 45 PM" src="https://github.com/user-attachments/assets/cf93fcb8-6e4e-4548-99aa-ffb5fb17feb3">
 
-<img width="1452" alt="Screenshot 2024-10-21 at 3 50 07 PM" src="https://github.com/user-attachments/assets/6d7a2bf8-3d9f-47bb-8f33-c55a4d0378db">
+<img width="1451" alt="Screenshot 2024-10-21 at 4 04 02 PM" src="https://github.com/user-attachments/assets/3845354f-bfcd-4771-9bed-8c0e3bdf86b7">
 
 <img width="1453" alt="Screenshot 2024-10-21 at 3 50 34 PM" src="https://github.com/user-attachments/assets/e7787428-7776-4fcb-88c3-87f0c62e16d4">
 
