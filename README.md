@@ -29,11 +29,11 @@ Project files can also be found [here](https://github.com/Kahvedzic/Southern-Wat
 
 # Data Structure & Initial Checks
 
-Describe and Info overview of the 2 datasets used in analysis:
+ Overview of the 2 datasets used in analysis:
 
 <img width="1212" alt="Screenshot 2024-10-21 at 2 18 33 PM" src="https://github.com/user-attachments/assets/c11eba14-7d4e-4955-bbcf-5dd0d32e7c5a">
 
-
+Prior to beginning of analysis, familiarization with the datasets was used for quality control.
 
 
 
