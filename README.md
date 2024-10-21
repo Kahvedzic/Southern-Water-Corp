@@ -15,4 +15,9 @@ Insights and recommendations are provided on the following key areas:
 * Potential outliers when PUMP FAILURE = 1 (Failure) or PUMP FAILURE = 0 (Normal Behaviour).
 * Iterate through dataframe by plotting every variable individually to analyze which variables were most significant to pump failure (1 or 0) for a more streamlined analysis.
 * Pump failures over a rolling time period to analyze how the variables move with respect to pump failure.
-* 
+* Analyze variable correlations against PUMP FAILURE (1 or 0).
+* Create OLS regression model that models the PUMP FAILURE(Y-Variable) against all independaent variables.
+* Analysis of coefficients to better understand the variables displaying the largest rate of change with respect to PUMP FAILURE.
+* Lastly, validate predictions using our regressive model.
+
+  
