@@ -25,3 +25,13 @@ The analysis using Python to clean, organize, and prepare data to create the ins
 Project files can also be found [here](https://github.com/Kahvedzic/Southern-Water-Corp/tree/main/Project_Files)
 
 
+<img width="542" alt="Screenshot 2024-10-21 at 2 14 41 PM" src="https://github.com/user-attachments/assets/8dd3e1e1-7352-4ebc-8667-c2e15a49695d">
+
+
+
+
+
+
+
+
+
