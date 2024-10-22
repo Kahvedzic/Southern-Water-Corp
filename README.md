@@ -77,9 +77,9 @@ Filtered Dataframes with Box Plots - Outliers Removed:
 
 Plot and Examine Each Column:
 
-* As you might recall from the earlier plot we had made with the line plot; it was hard to see which variables were the most significant with respect to pump failure when all the variables are plotted together.
+* As you might recall from the earlier plot we had made with the line plot; it was hard to see which variables were the most significant with respect to PUMP FAILURE when all the variables are plotted together.
 * This is common when variables are at different scales, the trends can be more challenging to interpret.
-* This is why we are going to ITERATE through the dataframe and plot each individual variable out and compare this with the Pump Failure for a more streamlined analysis.
+* This is why we are going to ITERATE through the dataframe and plot each individual variable out and compare this with the PUMP FAILURE for a more streamlined analysis.
 
 <img width="1457" alt="Screenshot 2024-10-21 at 3 48 55 PM" src="https://github.com/user-attachments/assets/ea7cefda-6d34-4e5c-b0e3-1296b8e9a7c3">
 
@@ -103,6 +103,16 @@ Create a Plot for Pump Failures Over a Rolling Time Period:
 <img width="1460" alt="Screenshot 2024-10-21 at 3 58 34 PM" src="https://github.com/user-attachments/assets/b125c45c-13f7-4a1a-8db8-4b77a53c80f9">
 
 <img width="1458" alt="Screenshot 2024-10-21 at 3 59 08 PM" src="https://github.com/user-attachments/assets/74762f2e-e187-46d9-abc1-19ea7c8c4c24">
+
+# Conclusion and Recommendations
+
+We've identified the variables displaying the largest absolute rate of change with respect to PUMP FAILURE (which variables spike the most in relation to PUMP FAILURE).
+These 3 variables showcased the strongest relationship with respect to PUMP FAILURE
+
+- Volumetric Flow Meter
+- Pump Efficiency 
+- Horse Power
+ 
 
 
 
