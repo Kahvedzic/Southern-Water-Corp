@@ -117,7 +117,7 @@ These 3 variables showcased the strongest relationship with respect to PUMP FAIL
 
 Using the regressive model we created proved to be a success validating our prediction of implications when PUMP FAILURE = 1 (Failure).
 
-Full in-depth project can be found again [here](https://colab.research.google.com/drive/1rctNKRh_YetzRpKLH8qhnl6chTQEFSnr#scrollTo=twpkMSnAacwf)
+Full in-depth project can be found again [here](https://github.com/Kahvedzic/Southern-Water-Corp/blob/main/Southern%20Water%20Corp.ipynb)
 
 Project files can be found again [here](https://github.com/Kahvedzic/Southern-Water-Corp/tree/main/Project%20Files)
 
