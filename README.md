@@ -120,7 +120,7 @@ Full in-depth project can be found again [here](https://colab.research.google.co
 
 Project files can be found again [here](https://github.com/Kahvedzic/Southern-Water-Corp/tree/main/Project_Files)
 
-# Amar Kahvedzic | Southern Water Corp Analysis | Python | Jupyter Notebook
+# Amar Kahvedzic | Southern Water Corp Analysis | Python 
 # Thank you
 
 
