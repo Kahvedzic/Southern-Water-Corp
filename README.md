@@ -107,6 +107,7 @@ Create a Plot for Pump Failures Over a Rolling Time Period:
 # Conclusion and Recommendations
 
 We've identified the variables displaying the largest absolute rate of change with respect to PUMP FAILURE (which variables spike the most in relation to PUMP FAILURE).
+
 These 3 variables showcased the strongest relationship with respect to PUMP FAILURE
 
 - Volumetric Flow Meter
