@@ -104,7 +104,7 @@ Create a Plot for Pump Failures Over a Rolling Time Period:
 
 <img width="1458" alt="Screenshot 2024-10-21 at 3 59 08 PM" src="https://github.com/user-attachments/assets/74762f2e-e187-46d9-abc1-19ea7c8c4c24">
 
-# Conclusion and Recommendations
+# Conclusion 
 
 We've identified the variables displaying the largest absolute rate of change with respect to PUMP FAILURE.
 
@@ -115,9 +115,13 @@ These 3 variables showcased the strongest relationship with respect to PUMP FAIL
 - Horse Power
 
 Using the regressive model we created proved to be a success in validating our prediction in viewing the implications when PUMP FAILURE = 1 (Failure).
-We are now able to accurately predict when PUMP FAILURE = 1.
 
 Full in-depth project can be found again [here](https://colab.research.google.com/drive/1rctNKRh_YetzRpKLH8qhnl6chTQEFSnr#scrollTo=twpkMSnAacwf)
+
+Project files can be found again [here](https://github.com/Kahvedzic/Southern-Water-Corp/tree/main/Project_Files)
+
+# Amar Kahvedzic | Southern Water Corp Analysis | Python | Jupyter Notebook
+# Thank you
 
 
 
