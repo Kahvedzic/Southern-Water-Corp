@@ -114,6 +114,9 @@ These 3 variables showcased the strongest relationship with respect to PUMP FAIL
 - Pump Efficiency 
 - Horse Power
 
+Using the regressive model we created proved to be a success in validating our prediction in viewing the implications when PUMP FAILURE = 1 (Failure).
+We are now able to accurately predict when PUMP FAILURE = 1.
+
 Full in-depth project can be found again [here](https://colab.research.google.com/drive/1rctNKRh_YetzRpKLH8qhnl6chTQEFSnr#scrollTo=twpkMSnAacwf)
 
 
