@@ -24,7 +24,7 @@ Insights and recommendations are provided on the following key areas:
 
 Full in-depth project can be found [here](https://github.com/Kahvedzic/Southern-Water-Corp/blob/main/Southern%20Water%20Corp.ipynb) 
 
-Project files can be found [here](https://github.com/Kahvedzic/Southern-Water-Corp/tree/main/Project%20Files)
+Project datasets can be found [here](https://github.com/Kahvedzic/Southern-Water-Corp/tree/main/Project%20Files)
 
 Below consists of major key highlights of entire project.
 
