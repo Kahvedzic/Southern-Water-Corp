@@ -1,4 +1,4 @@
-# Southern Water Corp | Python |Jupyter Notebook
+# Southern Water Corp - Python - Jupyter Notebook
 
 <img width="542" alt="Screenshot 2024-10-21 at 2 14 41 PM" src="https://github.com/user-attachments/assets/c6b7d284-1f03-4bac-90c0-b1342a75951d">
 
@@ -120,8 +120,9 @@ Full in-depth project can be found again [here](https://colab.research.google.co
 
 Project files can be found again [here](https://github.com/Kahvedzic/Southern-Water-Corp/tree/main/Project_Files)
 
-# Amar Kahvedzic | Southern Water Corp Analysis | Python 
 # Thank you
+
+Amar Kahvedzic 
 
 
 
