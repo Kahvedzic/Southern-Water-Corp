@@ -1,7 +1,8 @@
 # Southern Water Corp Analysis 
 Python & Jupyter Notebook
 
-<img width="542" alt="Screenshot 2024-10-21 at 2 14 41 PM" src="https://github.com/user-attachments/assets/c6b7d284-1f03-4bac-90c0-b1342a75951d">
+<img width="541" alt="Screenshot 2024-10-21 at 11 37 52 PM" src="https://github.com/user-attachments/assets/7680419b-8893-4872-8c8f-04e5d9f01c91">
+
 
 
 # Project Background
