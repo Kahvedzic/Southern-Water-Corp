@@ -1,5 +1,4 @@
-# Southern Water Corp Analysis 
-Python & Jupyter Notebook
+# Southern Water Corp Analysis | Python & Jupyter Notebook
 
 Full in-depth project can be found [here](https://github.com/Kahvedzic/Southern-Water-Corp/blob/main/Southern%20Water%20Corp.ipynb) 
 
