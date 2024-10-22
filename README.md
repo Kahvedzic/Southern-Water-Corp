@@ -122,7 +122,7 @@ Full in-depth project can be found again [here](https://github.com/Kahvedzic/Sou
 
 Project files can be found again [here](https://github.com/Kahvedzic/Southern-Water-Corp/tree/main/Project%20Files)
 
-# Thank you
+# Thank You
 
 Amar Kahvedzic 
 
