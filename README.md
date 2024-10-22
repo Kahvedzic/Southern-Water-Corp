@@ -1,9 +1,11 @@
 # Southern Water Corp Analysis 
 Python & Jupyter Notebook
 
+Full in-depth project can be found [here](https://github.com/Kahvedzic/Southern-Water-Corp/blob/main/Southern%20Water%20Corp.ipynb) 
+
+Project datasets can be found [here](https://github.com/Kahvedzic/Southern-Water-Corp/tree/main/Project%20Files)
+
 <img width="541" alt="Screenshot 2024-10-21 at 11 37 52 PM" src="https://github.com/user-attachments/assets/7680419b-8893-4872-8c8f-04e5d9f01c91">
-
-
 
 # Project Background
 
@@ -22,10 +24,6 @@ Insights and recommendations are provided on the following key areas:
 * Create OLS regression model that models the PUMP FAILURE(Y-Variable) against all independaent variables.
 * Analysis of coefficients to better understand the variables displaying the largest rate of change with respect to PUMP FAILURE.
 * Lastly, validate predictions using our regressive model.
-
-Full in-depth project can be found [here](https://github.com/Kahvedzic/Southern-Water-Corp/blob/main/Southern%20Water%20Corp.ipynb) 
-
-Project datasets can be found [here](https://github.com/Kahvedzic/Southern-Water-Corp/tree/main/Project%20Files)
 
 Below consists of major key highlights of entire project.
 
