@@ -113,7 +113,8 @@ These 3 variables showcased the strongest relationship with respect to PUMP FAIL
 - Volumetric Flow Meter
 - Pump Efficiency 
 - Horse Power
- 
+
+Full in-depth project can be found again [here](https://colab.research.google.com/drive/1rctNKRh_YetzRpKLH8qhnl6chTQEFSnr#scrollTo=twpkMSnAacwf)
 
 
 
