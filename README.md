@@ -1,5 +1,7 @@
 # Southern Water Corp Analysis | Python & Jupyter Notebook
 
+[LinkedIn](https://www.linkedin.com/in/amar-kahvedzic-20a02414a/)
+
 Full in-depth project can be found [here](https://github.com/Kahvedzic/Southern-Water-Corp/blob/main/Southern%20Water%20Corp.ipynb) 
 
 Project datasets can be found [here](https://github.com/Kahvedzic/Southern-Water-Corp/tree/main/Project%20Files)
@@ -113,6 +115,8 @@ Full in-depth project can be found again [here](https://github.com/Kahvedzic/Sou
 Project files can be found again [here](https://github.com/Kahvedzic/Southern-Water-Corp/tree/main/Project%20Files)
 
 # Thank You
+
+[LinkedIn](https://www.linkedin.com/in/amar-kahvedzic-20a02414a/)
 
 Amar Kahvedzic 
 
