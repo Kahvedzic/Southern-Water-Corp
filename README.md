@@ -32,6 +32,10 @@ Below consists of major key highlights of entire project
 
  Overview of the 2 datasets used in analysis:
 
+<img width="466" alt="1" src="https://github.com/user-attachments/assets/b4ebe772-8382-42b6-99f3-7ab323dcedeb">
+
+<img width="466" alt="Screenshot 2024-10-28 at 2 05 22 PM" src="https://github.com/user-attachments/assets/875f6148-5ce4-4efe-883f-8a9df6f92100">
+
 <img width="1212" alt="Screenshot 2024-10-21 at 2 18 33 PM" src="https://github.com/user-attachments/assets/c11eba14-7d4e-4955-bbcf-5dd0d32e7c5a">
 
 
